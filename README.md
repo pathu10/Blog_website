@@ -22,7 +22,7 @@ This is a simple blog management system where users can create, read, update, an
 
 1. Clone the repository:
    bash
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/pathu10/Blog_website.git
    cd repository-name
    
 
