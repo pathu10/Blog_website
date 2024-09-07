@@ -79,4 +79,4 @@ The Blog Management System is a web application designed to facilitate the creat
 
 ### Contact
 
-For questions or feedback, please get in touch with us at pradeep1205k@gmail.com. We appreciate your interest in our Blog Management System!
+For questions or feedback, please get in touch with us at prathamajeru10@gmail.com. We appreciate your interest in our Blog Management System!
